@@ -1,0 +1,1 @@
+MVP deenvolvido para concluir o módulo de Análise de Dados e Boas Práticas da Pós-Graduação em Ciência de Dados da PUC-Rio. Link do colab: [https://colab.research.google.com/drive/19wehuCZiXvFtSIfZdKt4XuHavygAF17U****](https://colab.research.google.com/drive/19wehuCZiXvFtSIfZdKt4XuHavygAF17U)
